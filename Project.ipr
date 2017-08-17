@@ -256,6 +256,11 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="D:/workspace" vcs="Git" />
+    <mapping directory="D:/workspace/Project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+  </component>
   <component name="libraryTable">
     <library name="Maven: ch.qos.logback:logback-classic:1.1.11">
       <CLASSES>
